@@ -1,0 +1,9 @@
+IMÁGENES DEL DASHBOARD (todas opcionales; si no existen, el dashboard no muestra nada roto)
+
+  assets/portada.jpg          Banner de la página de inicio (ancho recomendado: 1600 px, alto ~500 px)
+  assets/logo.png             Logo pequeño en la barra lateral
+  assets/generos/<Género>.jpg Una foto por género. El nombre debe ser IGUAL al de la carpeta en musica/
+                              Ejemplos: assets/generos/Caporales.jpg, assets/generos/Morenada.jpg
+                              (también se aceptan .jpeg, .png y .webp)
+
+Usa fotos que tengas derecho a publicar y anota la fuente en assets/creditos.txt.
