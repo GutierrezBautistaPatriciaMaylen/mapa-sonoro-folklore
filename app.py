@@ -35,7 +35,7 @@ st.set_page_config(page_title="Mapa sonoro del folklore boliviano", layout="wide
 MODO_LOCAL = MUSICA_DIR.exists()  # en la nube no se sube la carpeta musica/
 ASSETS = ROOT / "assets"
 PAGINAS = ["Inicio", "Canciones", "Algoritmos y métricas", "Análisis profundo", "Mapa sonoro", "Géneros",
-           "Probar canción", "Versiones y MLOps", "Bitácora", "Método"]
+           "Probar canción", "Versiones y MLOps", "Bitácora"]
 PNG_ENTRENAMIENTO = {
     "KMeans": [("kmeans_curvas.png", "Curva del codo y silueta según k")],
     "Jerarquico": [("dendrograma.png", "Dendrograma (cómo se van uniendo las canciones)")],
