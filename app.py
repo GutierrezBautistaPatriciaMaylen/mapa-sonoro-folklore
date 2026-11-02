@@ -749,7 +749,7 @@ def main() -> None:
         "Algoritmos y métricas": lambda: pagina_algoritmos(ctx), "Análisis profundo": lambda: pagina_analisis(ctx),
         "Mapa sonoro": lambda: pagina_mapa(ctx), "Géneros": lambda: pagina_generos(ctx),
         "Probar canción": lambda: pagina_probar(ctx), "Versiones y MLOps": lambda: pagina_versiones(ctx),
-        "Bitácora": pagina_bitacora, "Método": pagina_metodo,
+        "Bitácora": pagina_bitacora,
     }
     paginas[pagina]()
 
