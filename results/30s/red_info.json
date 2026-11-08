@@ -1,0 +1,15 @@
+{
+  "n_canciones": 153,
+  "n_componentes_cluster": 20,
+  "n_componentes_densidad": 8,
+  "ppca_sigma2": 0.21955164015763348,
+  "n_semillas": 3,
+  "mejor": {
+    "reduccion": "t-SNE",
+    "algoritmo": "HDBSCAN",
+    "ari": 0.06035205364626991,
+    "v_measure": 0.14672411832810486,
+    "pct_ruido": 37.25
+  },
+  "max_ruido": 40.0
+}
