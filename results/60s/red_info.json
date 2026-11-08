@@ -1,0 +1,15 @@
+{
+  "n_canciones": 153,
+  "n_componentes_cluster": 20,
+  "n_componentes_densidad": 8,
+  "ppca_sigma2": 0.2099576220752573,
+  "n_semillas": 3,
+  "mejor": {
+    "reduccion": "PCA",
+    "algoritmo": "GMM",
+    "ari": 0.16743636558908817,
+    "v_measure": 0.35018800774703196,
+    "pct_ruido": 0.0
+  },
+  "max_ruido": 40.0
+}
